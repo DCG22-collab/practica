@@ -2,3 +2,4 @@
 
 1. Descarga eñ proyecto de github
 2. Crear el entorno virtual con el archivo requirements.txt
+3. El programa se ejecuta con python run-main.py
