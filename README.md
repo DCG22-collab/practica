@@ -4,3 +4,4 @@
 2. Crear el entorno virtual con el archivo requirements.txt
 3. El programa se ejecuta con python run-main.py
 4. Se feliz, no se que hago 
+5. adios
