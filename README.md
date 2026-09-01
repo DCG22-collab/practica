@@ -6,3 +6,4 @@
 4. Se feliz, no se que hago 
 5. adios
 6. Información agregada desde github
+7. Trabajando con git + github
