@@ -7,3 +7,4 @@
 5. adios
 6. Información agregada desde github
 7. Trabajando con git + github
+8. Trabajando con github automatizado 
